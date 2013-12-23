@@ -1,3 +1,6 @@
 [submodule "FTASyncDemo/FTASyncDemo/OpenSource/NPReachability"]
 	path = FTASyncDemo/FTASyncDemo/OpenSource/NPReachability
 	url = https://github.com/Abizern/NPReachability.git
+[submodule "FTASyncDemo/FTASyncDemo/OpenSource/MagicalRecord"]
+	path = FTASyncDemo/FTASyncDemo/OpenSource/MagicalRecord
+	url = https://github.com/magicalpanda/MagicalRecord.git
